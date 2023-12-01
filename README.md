@@ -27,6 +27,23 @@ I'm interested in new challenges.
 </p>
 
 
+### Links
+
+Contact: +98-9129379969
+
+E-mail: <a href='mailto:aminjalalian1993@gmail.com'>aminjalalian1993@gmail.com</a>
+
+LinkedIn: <a href='https://www.linkedin.com/in/amin-jalalian/'>https://www.linkedin.com/in/amin-jalalian/</a>
+
+GitHub: <a href='https://github.com/AminJalalian'>https://github.com/AminJalalian/</a>
+
+StackOverflow: <a href='https://stackoverflow.com/users/8074206/amin'>https://stackoverflow.com/users/8074206/amin</a>    
+
+Website: <a href='https://aminjalalian.github.io/Amin-Jalalian/'>https://aminjalalian.github.io/Amin-Jalalian/</a>     
+
+Need a PDF? Download here
+
+
 ### Key points
 *   Creator of [CodeGym Community](https://github.com/codegymcommunity) and [Template Repository](https://github.com/template-repository) organizations.
 *   Creator and author of [romankh3](https://t.me/romankh3) Telegram channel. Subscribe to receive messages about my open-source activities.
