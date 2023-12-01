@@ -1,2 +1,1 @@
-# Amin-Jalalian
-Amin's CV
+### Hi there 👋 
